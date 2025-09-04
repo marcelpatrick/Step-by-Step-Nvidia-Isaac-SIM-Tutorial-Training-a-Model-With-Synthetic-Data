@@ -57,7 +57,7 @@ Save the file.
 
 4- Fix step 7 "Visualize Model Performance on Real World Data"
 - the original notebook tries to fetch results from the wrong folder using wrong file names. (this wasn't in the Nvidia original documentation). Replace the original code by this one:
-```
+```py
 from IPython.display import Image 
 import glob
 
