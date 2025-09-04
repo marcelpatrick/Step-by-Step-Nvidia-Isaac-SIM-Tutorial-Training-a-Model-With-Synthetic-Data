@@ -28,7 +28,7 @@ https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-OV-30+V1&unit=
 6- Open the notebook in this folder from Ubuntu CLI: "jupyter notebook local_train.ipynb --allow-root"
 - Copy the URL provided in my web browser, click on the notebook to open
 
-- INSIDE THE NOTEBOOK
+### INSIDE THE NOTEBOOK
 
 1- Do not uncomment or replace ```# os.environ["LOCAL_PROJECT_DIR"] = "<LOCAL_PATH_OF_CLONED_REPO>"``` this code is not used anywhere (this wasn't in the Nvidia original documentation)..
 
