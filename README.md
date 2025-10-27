@@ -1,6 +1,8 @@
 ## COURSE: "Fine-Tuning and Validating an AI Perception Model" > "Lecture: Training a Model With Synthetic Data": 
 https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-OV-30+V1&unit=block-v1:DLI+S-OV-30+V1+type@vertical+block@aced7cf26b974581baf48fae53b70341
 
+### ENVIRONMENT SETUP
+
 0 - Make sure you have completed all the previous steps from the course, including the one to generate synthetic data: from Lecture “Generating a Synthetic Dataset Using Replicator”
 - Clone repo: https://github.com/NVIDIA-AI-IOT/synthetic_data_generation_training_workflow.git
 - Configure generate_data.sh
