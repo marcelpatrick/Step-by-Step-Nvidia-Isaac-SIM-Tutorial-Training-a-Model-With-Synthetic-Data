@@ -1,3 +1,5 @@
+- This document offers a clearer, more beginner-friendly walkthrough of the official Nvidia tutorial below while also offering fixes and improvements to the original code and overall process:
+
 ## COURSE: "Fine-Tuning and Validating an AI Perception Model" > "Lecture: Training a Model With Synthetic Data": 
 https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-OV-30+V1&unit=block-v1:DLI+S-OV-30+V1+type@vertical+block@aced7cf26b974581baf48fae53b70341
 
